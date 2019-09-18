@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Say voice="alice">Palavras em português.</Say>
     <Play>https://www.soundjay.com/button/sounds/beep-08b.mp3</Play>
